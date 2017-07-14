@@ -1,0 +1,9 @@
+body {
+    background: yellow url("images/background.jpg");
+}
+.navbar{
+    border-radius: 0;
+}
+.navbar-brand{
+    font-family:'Indie+Flower', cursive;
+}
