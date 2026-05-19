@@ -1,0 +1,69 @@
+{
+  "repo": "Django_project",
+  "title": "Django_project",
+  "purpose": "Tutorial-driven Django practice repo containing small exploratory projects, including a stock API example and a separate music-site scaffold.",
+  "domains": [
+    "web app",
+    "backend",
+    "learning"
+  ],
+  "tech_stack": [
+    "Python",
+    "Django",
+    "SQLite",
+    "Django REST Framework"
+  ],
+  "features": [
+    "Django project structure with separate practice projects under one repo",
+    "Simple stock model with ticker, open, close, and volume fields",
+    "API-style stock list view using Django REST Framework response patterns",
+    "Local SQLite-backed development setup suitable for framework learning"
+  ],
+  "pending_state": "unknown",
+  "pending_items": [],
+  "status_confidence": "medium",
+  "main_modules": [
+    "Music_site",
+    "Stock_site"
+  ],
+  "key_flows": [
+    "graphify-out/GRAPH_REPORT.md"
+  ],
+  "known_outputs": [
+    "graphify-out/graph.json",
+    "graphify-out/graph.html",
+    "graphify-out/GRAPH_REPORT.md"
+  ],
+  "current_work_guess": "The repo reads as framework-learning work rather than an actively evolving product.",
+  "likely_entrypoints": [
+    "README.md",
+    "Stock_site/stocks/views.py",
+    "Stock_site/stocks/models.py",
+    "Stock_site/manage.py"
+  ],
+  "notable_docs": [
+    "README.md"
+  ],
+  "graph_stats": "71 nodes \u00b7 66 edges \u00b7 25 communities (15 shown, 10 thin omitted)",
+  "god_nodes": [
+    "Album",
+    "UserForm",
+    "UserFormView",
+    "StockList",
+    "Stock"
+  ],
+  "llm_start_here": [
+    "README.md",
+    "Stock_site/stocks/views.py",
+    "Stock_site/stocks/models.py"
+  ],
+  "suggested_next_steps": [
+    "Document the Music_site scope if it should remain part of the repo story",
+    "Add a small API usage example if you want the stock project to read more clearly on GitHub"
+  ],
+  "evidence_files": [
+    "README.md",
+    "Stock_site/stocks/views.py",
+    "Stock_site/stocks/models.py"
+  ]
+}

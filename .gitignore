@@ -1,3 +1,5 @@
+.DS_Store
+Thumbs.db
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -89,3 +91,6 @@ ENV/
 
 # Rope project settings
 .ropeproject
+graphify-out/cache/
+graphify-out/manifest.json
+graphify-out/cost.json
