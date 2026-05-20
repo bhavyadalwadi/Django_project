@@ -37,3 +37,7 @@ This repo captures early Django learning work rather than a polished product. It
 
 - Shows early Django familiarity with models, views, and local project structure
 - Best presented as framework-learning work, not as a production backend
+
+## Maintenance note
+
+- TODO: archive this repo later if you want a stricter recruiter-facing GitHub profile
