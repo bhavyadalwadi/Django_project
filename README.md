@@ -1,4 +1,6 @@
-# Django_project
+# Django_project [Archived]
+
+Status: Archived. Kept as older practice work.
 
 Tutorial-driven Django practice repo that contains small exploratory projects, including a stock API example and a music-site scaffold.
 
